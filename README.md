@@ -23,4 +23,3 @@ Once you open up the application it will open up google maps (Berlin) the specif
 Missing is the price value for listings so we added 80 as a default value
 
 Clicking the item will bring up a view with short details of the choosen listing, and clicking the listing will open up a modal with more details about the listing choosed.
-
